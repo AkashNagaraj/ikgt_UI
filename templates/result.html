@@ -1,0 +1,34 @@
+{% extends "index.html" %}
+{% block result %}
+
+  <div class="container">
+  <div class="row">
+    <div class="col-lg-4 bg-light text dark">
+      <h5>Query</h5>
+    </div>
+    <div class="col-lg-4 bg-light text dark">
+      {{data.result.query}}
+    </div>
+  </div>
+
+ <div class="row">
+    <div class="col-lg-4 bg-light text dark">
+      <h5>Sentences Found</h5>
+    </div>
+    <div class="col-lg-4 bg-light text dark">
+      {{data.result.num}}
+    </div>
+  </div>
+
+  </div>
+  </div>
+
+  <div class="spacer10"> </div>
+    <ol>
+    {% for sent in data.result.sentences %}
+         <li>{{ sent }}</li>
+    {% endfor %}
+    </ol>
+
+
+{% endblock %}

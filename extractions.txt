@@ -1,0 +1,488 @@
+Zakir Musa,Hizbul Mujahideen,1
+Siddhartha Dhar,ISIS,1
+Samy Amimour,ISIS,1
+Mohammed,Islamic State,1
+Omar Mohammed,Islamic State,1
+Yaseen Itoo,Hizbul Mujahideen,2
+Abdul Qayoom Najar,Hizbul Mujahideen,2
+Abu Bakr al-Baghdadi,Islamic State,2
+Mullah Omar,Taliban,2
+Osama bin Laden,Al Qaeda,2
+Vinayagamurthi Muralitharan,LTTE,2
+Masood Azhar,Al Qaeda,2
+Barnawi,Islamic State,2
+Majeed,ISIS,2
+Maulana Masood Azhar,Al Qaeda,2
+Abubakar Shekau,Islamic State,2
+Abu Tahsin al-Salhi,ISIS,2
+Osama bin Laden,Taliban,2
+Baghdadi,ISIS,2
+Abu Bakr al-Baghdadi,Islamic State,2
+Najeeb Ahmed,ISIS,2
+Mohammed Emwazi,Islamic State,2
+Mohammad Ahsan Dar,Hizbul Mujahideen,2
+Osama bin Laden,Al Qaeda,2
+Thomas,Islamic State,2
+Hamza,Hizbul Mujahideen,2
+Haqqani,Taliban,2
+Noman,Hizbul Mujahideen,2
+John,Islamic State,2
+Umar,Al Qaeda,2
+Jaish-e-Mohammad,Islamic State,2
+Osama bin Laden,Al Qaeda,2
+Benazir Bhutto,Al Qaeda,2
+Rajapaksa,LTTE,2
+Ashraf,Hizbul Mujahideen,2
+Ishfaq,Hizbul Mujahideen,2
+Zahid,Hizbul Mujahideen,2
+Velupillai Prabhakaran,LTTE,2
+Abdul Manaf,ISIS,2
+Omar,Taliban,2
+Mohammed,Islamic State,2
+Anders Breivik,Al Qaeda,2
+Ajit Doval,Jaish-e-Mohammed,2
+Ismael Habib,Islamic State,2
+Rami Abdel Rahman,Islamic State,2
+Mullah Mansour,Taliban,2
+Omar Mohammed,Islamic State,2
+Omar bin Khetab,Al Qaeda,2
+Obeidi,Islamic State,2
+Kumaran Pathmanathan,LTTE,2
+Nur Khan Liton,Islamic State,2
+Manaf,ISIS,2
+Velupillai Prabhakaran,LTTE,2
+Parcak,Islamic State,2
+Abu Sayed,ISIS,2
+Shahid,Hizbul Mujahideen,2
+Karunas,LTTE,2
+Mullah Omar,Taliban,2
+Shawon,Islamic State,2
+Musa,Islamic State,2
+Ariya Rubasinghe,LTTE,2
+Abu Sayed,ISIS,2
+Datta Khel,Al Qaeda,2
+Yousuf,Hizbul Mujahideen,2
+Burhan Wani,Hizbul Mujahideen,2
+Arabinda Rajkhowa,LTTE,2
+Hafiz Sayed Khan,ISIS,2
+Burhan Wani,Hizbul Mujahideen,2
+Jones,ISIS,2
+Chemezov,ISIS,2
+Deir Ezzor,Islamic State,2
+Premadasa,LTTE,2
+Mullah Omar,ISI,2
+Baghdadi,ISIS,2
+Yaseen Itoo,Hizbul Mujahideen,2
+Masih,ISIS,2
+Asaduzzaman Khan,ISIS,2
+Yasin Itoo,Hizbul Mujahideen,2
+Rehaan,Hizbul Mujahideen,2
+Hoffman,ISIS,2
+Najib,Al Qaeda,2
+Talal Barazi,Islamic State,2
+Jitendra Singh,ISIS,2
+Owais,Hizbul Mujahideen,2
+Rajapaksa,LTTE,2
+Dhar,ISIS,2
+Rajapaksa,LTTE,2
+Qatada,Al Qaeda,2
+Mullah Omar,Taliban,2
+Burhan Wani,Al Qaeda,2
+Burhan Wani,Al Qaeda,2
+Yaseen Itoo,Hizbul Mujahideen,3
+Abdul Qayoom Najar,Hizbul Mujahideen,3
+Mohammed,Islamic State,3
+Allahu Akbar,ISIS,3
+Omar Mohammed,Islamic State,3
+Maulana Masood Azhar,Al Qaeda,3
+Abu Bakr al-Baghdadi,Islamic State,3
+Abu Tahsin al-Salhi,ISIS,3
+Mullah Omar,Taliban,3
+Osama bin Laden,Al Qaeda,3
+Raval,Islamic State,3
+Barnawi,Islamic State,3
+Abu Bakr al-Baghdadi,Islamic State,3
+Mohammed Emwazi,Islamic State,3
+Mohammed,Islamic State,3
+Omar Mohammed,Islamic State,3
+Hamza,Hizbul Mujahideen,3
+Karzai,Taliban,3
+Vinayagamurthi Muralitharan,LTTE,3
+Vinayagamurthi Muralitharan,LTTE,3
+Maulana Masood Azhar,Al Qaeda,3
+Noman,Hizbul Mujahideen,3
+Nurettin Canikli,Islamic State,3
+Abubakar Shekau,Islamic State,3
+Abu Sayed,ISIS,3
+Nur Khan Liton,Islamic State,3
+Rami Abdel Rahman,Islamic State,3
+Masood Azhar,Al Qaeda,3
+Albu Kamal,Islamic State,3
+Ashraf,Hizbul Mujahideen,3
+Nur Khan Liton,Islamic State,3
+Ishfaq,Hizbul Mujahideen,3
+Zahid Hussain,Islamic State,3
+Masood,Islamic State,3
+Zahid,Hizbul Mujahideen,3
+Aquino,Islamic State,3
+Shawon,Islamic State,3
+Majeed,ISIS,3
+Parcak,Islamic State,3
+Deir Ezzor,Islamic State,3
+Najeeb Ahmed,ISIS,3
+Abu Bakr al-Baghdadi,Islamic State,3
+Baghdadi,ISIS,3
+Thomas,Islamic State,3
+Osama bin Laden,Al Qaeda,3
+Tamilselvan,LTTE,3
+Mullah Mansour,Taliban,3
+Albu Kamal,Islamic State,3
+Osama bin Laden,Taliban,3
+Haider al-Abadi,Islamic State,3
+Omar,Taliban,3
+Osama bin Laden,Al Qaeda,3
+al-Abadi,Islamic State,3
+Ismael Habib,Islamic State,3
+John,Islamic State,3
+Hafiz Sayed Khan,ISIS,3
+Emwazi,Islamic State,3
+Thomas,Islamic State,3
+Talal Barazi,Islamic State,3
+Benazir Bhutto,Al Qaeda,3
+Dhar,ISIS,3
+Abu Sayed,ISIS,3
+Mohammad Ahsan Dar,Hizbul Mujahideen,3
+Rajapaksa,LTTE,3
+Omar bin Khetab,Al Qaeda,3
+Burhan Wani,Al Qaeda,3
+Ariya Rubasinghe,LTTE,3
+Haqqani,Taliban,3
+Barzani,Islamic State,3
+Muammar Gaddafi,Islamic State,3
+Hafiz Sayed Khan,ISIS,3
+Burhan Wani,Al Qaeda,3
+Assad,Islamic State,3
+Abu Sayyaf,Islamic State,3
+Umar,Al Qaeda,3
+Mattis,Islamic State,3
+Ishfaq,Hizbul Mujahideen,3
+Abadi,Islamic State,3
+Pacquiao,Islamic State,3
+Musa,Islamic State,3
+Mullah Omar,Taliban,3
+Sattar,Taliban,3
+Abdul Manaf,ISIS,3
+Datta Khel,Al Qaeda,3
+Jones,ISIS,3
+Burhan Wani,Al Qaeda,3
+Grande,Islamic State,3
+Anders Breivik,Al Qaeda,3
+Osama bin Laden,Al Qaeda,3
+Talal Barazi,Islamic State,3
+Babbar Khalsa,LTTE,3
+Yunus Emre Sakarya,Islamic State,3
+Musharraf,Taliban,3
+Velupillai Prabhakaran,LTTE,3
+Aziz,Islamic State,3
+Shawon,Islamic State,3
+Abu Sayed,ISIS,3
+Mohammed,Islamic State,3
+Haider al-Abadi,Islamic State,3
+Velupillai Prabhakaran,LTTE,3
+Hafiz Sayed Khan,ISIS,3
+Obeidi,Islamic State,3
+Manaf,ISIS,3
+Mohammed Emwazi,Islamic State,3
+Zahid,Hizbul Mujahideen,3
+Raval,Islamic State,3
+John,Islamic State,3
+Arabinda Rajkhowa,LTTE,3
+Baghdadi,ISIS,3
+Pak,Taliban,3
+Baghdadi,ISIS,3
+Premachandran,LTTE,3
+Assad,Islamic State,3
+Al-Shabaab,Al Qaeda,3
+Abubakar Shekau,Islamic State,3
+Mullah Omar,ISI,3
+Hussaini,Taliban,3
+Abu Sayed,ISIS,3
+Prophet Mohammed,Islamic State,3
+Asaduzzaman Khan,ISIS,3
+Emwazi,ISIS,3
+Premachandran,LTTE,3
+Coulibaly,Islamic State,3
+Brett McGurk,Islamic State,3
+Cherif Kouachi,Islamic State,3
+Raqqa,Islamic State,3
+Said,Islamic State,3
+Hamid Karzai,Taliban,3
+Masih,ISIS,3
+James,ISIS,3
+Osama bin Laden,Islamic State,3
+Mullah Omar,ISI,3
+Mohammed,ISIS,3
+MS Khan,ISIS,3
+Velupillai Prabhakaran,LTTE,3
+Yaseen Itoo,Hizbul Mujahideen,3
+Hussaini,Taliban,3
+Samy Amimour,ISIS,3
+Akhundzada,Taliban,3
+Rami Abdel Rahman,Islamic State,3
+Musa,ISIS,3
+Nechirvan Barzani,Islamic State,3
+Rehaan,Hizbul Mujahideen,3
+Osama Mehmood,Al Qaeda,3
+Assad,Islamic State,3
+Hadiya,ISIS,3
+Shahid,Hizbul Mujahideen,3
+Abedi,Islamic State,3
+Emwazi,ISIS,3
+Zakir Musa,Hizbul Mujahideen,3
+Mohammed Shafi Armar,ISIS,3
+Yaseen Itoo,Hizbul Mujahideen,3
+Rajapaksa,LTTE,3
+Itoo,Hizbul Mujahideen,3
+Kamaraj,LTTE,3
+Mullah Omar,ISI,3
+Burhan Wani,Hizbul Mujahideen,3
+Bhindranwale,LTTE,3
+Premadasa,LTTE,3
+Masood,Islamic State,3
+Owais,Hizbul Mujahideen,3
+Kumaran Pathmanathan,LTTE,3
+John,ISIS,3
+Emwazi,Islamic State,3
+Haq,Al Qaeda,3
+Premadasa,LTTE,3
+Ahmed Farouq,Al Qaeda,3
+Karen Aizha Hamidon,Islamic State,3
+Ryan Dillon,ISIS,3
+Stephen Paddock,Islamic State,3
+Yasin Itoo,Hizbul Mujahideen,3
+Mattis,Islamic State,3
+Mahinda Rajapaksa,LTTE,3
+Karen Aizha Hamidon,Islamic State,3
+Mullah Omar,Taliban,3
+Mohammed Asif,Al Qaeda,3
+McMahill,Islamic State,3
+Vinayagamurthi Muralitharan,LTTE,3
+Jitendra Singh,ISIS,3
+Yousuf,Hizbul Mujahideen,3
+Morgulov,ISIS,3
+Rajiv Gandhi,LTTE,3
+Mahinda Rajapaksa,LTTE,3
+Burhan Wani,Hizbul Mujahideen,3
+Erik Solheim,LTTE,3
+M. Karunanidhi,LTTE,3
+Muammar Gaddafi,Islamic State,3
+Putin,Islamic State,3
+Hamid Karzai,Taliban,3
+Keki N Daruwalla,Islamic State,3
+Vinayagamurthi Muralitharan,LTTE,3
+Jones,ISIS,3
+Karunas,LTTE,3
+Bilal Ahmad,Hizbul Mujahideen,3
+Owais,Hizbul Mujahideen,3
+Jaish-e-Mohammad,Islamic State,3
+Morgan,Islamic State,3
+Velupillai Prabhakaran,LTTE,3
+Burhan Wani,Hizbul Mujahideen,3
+Mullah Omar,ISI,3
+Kumaratungas,LTTE,3
+Hamidon,ISIS,3
+Baglay,Hizbul Mujahideen,3
+Amani,ISIS,3
+Banlaoi,ISIS,3
+Velupillai Prabhakaran,LTTE,3
+Balasingham,LTTE,3
+L. K. Advani,LTTE,3
+Masood Azhar,Jaish-e-Mohammed,3
+Parcak,Islamic State,3
+Aiyer,LTTE,3
+Brattskar,LTTE,3
+Rumsfeld,Taliban,3
+Daesh,Islamic State,3
+Hoffman,ISIS,3
+Wani,Hizbul Mujahideen,3
+Masood,Islamic State,3
+Tahrir al-Sham,Islamic State,3
+Tamilselvan,LTTE,3
+Abu Tahsin al-Salhi,ISIS,3
+Haqqani,Taliban,3
+Omar,Taliban,3
+Abu Bakr al-Baghdadi,Islamic State,3
+Erik Solheim,LTTE,3
+Shahid,Hizbul Mujahideen,3
+Masood,Islamic State,3
+Zahid,Hizbul Mujahideen,3
+Ranil Wickremesinghe,LTTE,3
+Osama,Al Qaeda,3
+Areeb Majeed,ISIS,3
+Yasin Itoo,Hizbul Mujahideen,3
+Bashar al-Assad,Islamic State,3
+Fonseka,LTTE,3
+Osama bin Laden,Al Qaeda,3
+Abdel Rahman,Islamic State,3
+Glaser,Islamic State,3
+Wani,Hizbul Mujahideen,3
+Charles,LTTE,3
+Chemezov,ISIS,3
+he,Boko Haram,3
+Mrs Kumaratunga,LTTE,3
+Osama,Al Qaeda,3
+Mullah Omar,Taliban,3
+Arjun Singh,LTTE,3
+Syed Ali Shah Geelani,Hizbul Mujahideen,3
+Pak,Taliban,3
+Daesh,Islamic State,3
+Thorat,ISIS,3
+Ullah,ISIS,3
+Nadia Murad Basee Taha,ISIS,3
+Baghdadi,Islamic State,3
+Pope Francis,Islamic State,3
+Ozaki,ISIS,3
+Balasingham,LTTE,3
+Burhan Wani,Hizbul Mujahideen,3
+Qatada,Al Qaeda,3
+Osama bin Laden,Taliban,3
+Musa,Islamic State,3
+Keralas,ISIS,3
+Velupillai Prabhakaran,LTTE,3
+Abadi,Islamic State,3
+Benazir Bhutto,Al Qaeda,3
+Manickavasagam Suresh,LTTE,3
+Qatada,Al Qaeda,3
+Osama bin Laden,Al Qaeda,3
+Anup Chetia,LTTE,3
+Netanyahu,ISIS,3
+Dawood Ibrahim,Al Qaeda,3
+M. Karunanidhi,LTTE,3
+Manickavasagam Suresh,LTTE,3
+Prabhakaran,LTTE,3
+Karunanidhi,LTTE,3
+Rajapaksa,LTTE,3
+Manickavasagam Suresh,LTTE,3
+Karzai,Taliban,3
+Fernandes,LTTE,3
+Kumaratunga,LTTE,3
+Karunanidhi,LTTE,3
+Majeed,ISIS,3
+Ramadoss,LTTE,3
+Shahid,Hizbul Mujahideen,3
+Gharibi,ISIS,3
+Votel,Islamic State,3
+Faisal Devji,Taliban,3
+Jones,ISIS,3
+Rajiv Gandhi,LTTE,3
+Salman Khan,ISIS,3
+Rajapaksa,LTTE,3
+Omar bin Khetab,Al Qaeda,3
+Najar,Hizbul Mujahideen,3
+Premadasa,LTTE,3
+Hadiya,ISIS,3
+Zakir Musa,Hizbul Mujahideen,3
+Mullah Mohammed Omar,Taliban,3
+Dhar,ISIS,3
+Velupillai Prabhakaran,LTTE,3
+Kumaratungas,LTTE,3
+Bitta,LTTE,3
+Manaf,ISIS,3
+Masih,ISIS,3
+Aziz,Taliban,3
+Kobani,Islamic State,3
+Premadasa,LTTE,3
+Osama Mehmood,Al Qaeda,3
+chandrika Kumaratunga,LTTE,3
+Karunanidhi,LTTE,3
+Osama,Al Qaeda,3
+Rajiv Gandhi,LTTE,3
+Prabhakaran,LTTE,3
+Prabhakaran,LTTE,3
+Arjun Singh,LTTE,3
+Charles,LTTE,3
+Mr Patten,LTTE,3
+Osama,Al Qaeda,3
+Ahmed Farouq,Al Qaeda,3
+Rashid,ISIS,3
+Abu Musab al-Barnawi,Islamic State,3
+Vinay,LTTE,3
+Osama,Al Qaeda,3
+Hoffman,ISIS,3
+Hansraj Ahir,Hizbul Mujahideen,3
+Ramzan,Islamic State,3
+Rohana,LTTE,3
+Haq,Taliban,3
+Fernandes,LTTE,3
+Hadiya,Islamic State,3
+Tom Uzhannalil,ISIS,3
+Abedi,Islamic State,3
+Shivraj Singh Chouhan,ISIS,3
+George Fernandes,LTTE,3
+Advani,Taliban,3
+Boyle,Taliban,3
+Tanoh-Boutchoue,Al Qaeda,3
+Liyanage,LTTE,3
+M. Karunanidhi,LTTE,3
+Babbar Khalsa,LTTE,3
+Osama bin Laden,Al Qaeda,3
+chandrika Kumaratunga,LTTE,3
+Faisal Devji,Taliban,3
+Sadiq,ISIS,3
+Bhindranwale,LTTE,3
+Gabbard,Al Qaeda,3
+Hisham al-Hashimi,ISIS,3
+Mattis,ISIS,3
+Hadiya,Islamic State,3
+John,Islamic State,3
+Wickremesinghe,LTTE,3
+Swamy,LTTE,3
+Burhan Wani,Hizbul Mujahideen,3
+Naik,ISIS,3
+Mr Patten,LTTE,3
+Fillon,Islamic State,3
+Flynn,ISIS,3
+Fuad Hussein,Islamic State,3
+Wickremesinghe,LTTE,3
+Chandrika Kumaratunga,LTTE,3
+Vladimir Putin,Islamic State,3
+Raqqa,Islamic State,3
+Putin,Islamic State,3
+Aditi Khanna London,ISIS,3
+Liyanage,LTTE,3
+Shirish Borkar,ISIS,3
+Brett McGurk,ISIS,3
+Qanooni,Taliban,3
+Reyaz A.N. Naiku,Hizbul Mujahideen,3
+M.S. Bitta,LTTE,3
+Rajiv Gandhi,LTTE,3
+Hameed,Islamic State,3
+Najar,Hizbul Mujahideen,3
+Shafin Jahan,ISIS,3
+Bin Laden,ISIS,3
+Perarivalan,LTTE,3
+Spicer,ISIS,3
+Najar,Hizbul Mujahideen,3
+Musa,Hizbul Mujahideen,3
+Karat,LTTE,3
+Jaleel,ISIS,3
+Bitta,ISIS,3
+Fonseka,LTTE,3
+Tom Uzhunnalil,ISIS,3
+Mannan Bashir Wani,Hizbul Mujahideen,3
+Karzai,Taliban,3
+Modi,ISIS,3
+Gargash,Al Qaeda,3
+Chemezov,ISIS,3
+Unny,LTTE,3
+Lakhsman Kadirgamar,LTTE,3
+Osama Bin Laden,ISIS,3
+Fateh al-Sham,Islamic State,3
+Robert Fisk,ISIS,3s
+Lalit K Jha Washington,Al Qaeda,3
+Gotabaya Rajapaksa,LTTE,3
+Mohamed Naser,ISIS,3
+Joko Widodo,ISIS,3
+Osama bin Laden,Al Qaeda,3
+Yasin Yatoo,Hizbul Mujahideen,3
+Morsi,Islamic State,3

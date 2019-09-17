@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="spacer20"></div>
+<div class="container"></div>
+<div class="row">
+    <div class="container">
+        <form action="/process" method="post" accept-charset="utf-8">
+            <div>
+                <input type="text" name="sentence" class="col-lg-12" id="main_text" {% if data.sentence %}
+                    val={{data.sentence}}
+                {% endif %}></input>            
+            </div>
+            <div class="spacer20"></div>
+            <div align="right">
+                 <input type='submit' class="btn btn-primary btn-lg" value="Search"></input>    
+            </div>
+        </form>
+
+       <div>
+       <p></p>
+       </div> 
+ 
+
+        <form action="/search" method="post" accept-charset="utf-8">
+            <div align="center" >
+                <input type="text" name="entity_1" class="col-lg-4" id="entity_1" list="entities1">
+			<datalist id="entities1">
+                   {%for e in entities1%}
+                   <option value={{ e }} >
+                     {%endfor%}
+                      </datalist>
+
+		</input>
+                <input type="text" name="entity_2" class="col-lg-4" id="entity_2" list="entities2">
+			<datalist id="entities2">
+                   {%for e in entities2%}
+                    <option value={{ e }} >
+                     {%endfor%}
+                      </datalist>
+
+       		</input>   
+            </div>
+            <div class="spacer20"></div>
+            <div align="right">
+                 <input type='submit' class="btn btn-primary btn-lg" value="Search Bags"></input>    
+            </div>
+        </form>
+        
+    </div>
+    {% block result %}
+        
+    {% endblock %}
+</div>
+{% endblock %}

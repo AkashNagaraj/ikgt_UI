@@ -1,0 +1,42 @@
+{% extends "index.html" %}
+{% block result %}
+    {% if not data.result %}
+        <p class="lead">Bag not found</p>
+    {% else %}
+    <div class="container">
+    <div class="row">
+      <div class = "col-lg-4 bg-light text-dark">
+        <h6> Organization </h6>
+      </div>
+      <div class = "col-lg-4 bg-light text-dark">
+         {{data.result.sub}} 
+      </div>
+    </div>
+    <div class="row">
+      <div class = "col-lg-4 bg-light text-dark">
+        <h6> Person </h6>
+      </div>
+      <div class = "col-lg-4 bg-light text-dark">
+         {{data.result.obj}} 
+      </div>
+    </div>
+    <div class="row">
+      <div class = "col-lg-4 bg-light text-dark">
+        <h6> Terrorist works_for Oufit:  </h6>
+      </div>
+      <div class = "col-lg-4 bg-light text-dark">
+         {{data.result.predicted_relation}} 
+      </div>
+    </div>
+     <div>
+        <h6>Sentences {{'-'}} {{data.result.sentences|length}}</h6>
+        <ol>
+        {% for sent in data.result.sentences %}
+            <li>{{sent.get('sent')}}</li>
+        {% endfor %}
+        </ol>
+    </div>
+        
+    </div>
+    {% endif %}
+{% endblock %}
