@@ -2,7 +2,8 @@
 In order to view all the sentences in the inell_clean_preproc index we enter the desired entities in quotes seperated by AND -
 
 ```
-"osama" AND "al-qaeda"
+"osama" AND "al-qaeda" 
+"john" AND "Islamic state" AND "works for"
 ```
 # Display sentences used by the model - np_pair_bags_with_ner
 In order to view all the sentences used by the model we enter the desired entities in different UI tabs -
